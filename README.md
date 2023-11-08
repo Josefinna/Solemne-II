@@ -1,2 +1,2 @@
 # Solemne-II
-Solemne II - Página web El Taller de Maru
+Solemne II, asignatura Aplicaciones Híbridas. Página web de "El Taller de Maru".
